@@ -13,7 +13,7 @@ import matplotlib.pyplot as plt
 print("\n")
 
 print("\t -- DATA COLLECTION --\t")
-df=pd.read_csv(r"C:\Users\Madhumitha\Documents\data.csv")
+df=pd.read_csv(r"C:\Documents\data.csv")
 print(df)
 
 print("\n")
